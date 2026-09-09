@@ -1,7 +1,7 @@
 # m4b-for-ipod
 
 > [!NOTE]
-> This was **vibe-coded**. The code and the readme was generated using AI. Use this tool at your own risk and **DO NOT** encode your audiobooks with this tool if you have not backed them up
+> This was **vibe-coded** and limited testing has been done besides my own personal use. The code and the readme was generated using AI. Use this tool at your own risk and **DO NOT** encode your audiobooks with this tool if you have not backed them up
 
 **Fix chirping audiobooks on the iPod.** Batch-converts `.m4b` files to AAC-LC mono,
 stripping the HE-AAC artifacts that Classic-era iPods can't decode properly.
