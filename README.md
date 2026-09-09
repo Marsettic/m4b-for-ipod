@@ -10,8 +10,8 @@ Preserves chapters, chapter titles, metadata and cover art. Never modifies a sou
 until the encode has been verified against it.
 
 Sample:
-Audiobook before encoding: https://jumpshare.com/share/xKTcZ0Q61ViPsWq6DaeQ
-Audiobook after encoding: https://jumpshare.com/share/1u0ixji3xx2wkCyq8JT8
+* Audiobook before encoding: https://jumpshare.com/share/xKTcZ0Q61ViPsWq6DaeQ
+* Audiobook after encoding: https://jumpshare.com/share/1u0ixji3xx2wkCyq8JT8
 
 ---
 
